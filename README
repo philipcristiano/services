@@ -1,0 +1,10 @@
+A VM that runs services that I like to use.
+
+Included:
+    MongoDB
+    RabbitMQ
+
+To use:
+    Install Vagrant
+
+    # vagrant up
