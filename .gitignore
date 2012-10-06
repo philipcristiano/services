@@ -1,2 +1,4 @@
 .vagrant
+.idea
+local.config
 *.pyc

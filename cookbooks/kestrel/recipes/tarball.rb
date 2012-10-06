@@ -45,6 +45,8 @@ group node.kestrel.user do
   action  :create
 end
 
+package "unzip"
+
 # Download the tarball to /tmp
 require "tmpdir"
 
